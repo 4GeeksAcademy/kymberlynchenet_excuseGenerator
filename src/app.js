@@ -10,15 +10,15 @@ window.onload = function() {
   console.log("Hello Rigo from the console!");
 
   //write your code here
-  let who = ["The dog", "My grandma", "The mailman", "My bird"];
-  let action = ["ate", "peed", "crushed", "broke"];
-  let what = ["my homework", "my phone", "the car"];
+  let who = ["The cat", "My sister", "The zombie", "My bird"];
+  let action = ["ate", "hid", "crushed", "broke", "stole"];
+  let what = ["my computer", "my phone", "the key", "the car"];
   let when = [
-    "before the class",
-    "when I was sleeping",
-    "while I was exercising",
-    "during my lunch",
-    "while I was praying"
+    "after the class",
+    "when I was eating",
+    "while I was sleeping",
+    "during my dinner",
+    "while I was laughing"
   ];
 
   function generatorExcuse() {
